@@ -6,8 +6,8 @@ FindFindr is a modern Figma-based UI/UX prototype for a location discovery app t
 ## 🎯 Overview
 
 **Purpose:**  
-FindFindr aims to simplify how users discover and connect with nearby opportunities — whether it’s local events, restaurants, or new people.  
-The interface emphasizes **ease of navigation**, **real-time discovery**, and a **friendly, minimal aesthetic**.
+FindFindr aims to simplify how users discover and compare taxi fares from different applications, helping them find the cheapest and fastest rides in real time.
+The interface emphasizes easy navigation, live fare updates, and a **clean**, **user-friendly**
 
 **Key Design Goals:**
 - Seamless user onboarding  
@@ -38,9 +38,7 @@ The interface emphasizes **ease of navigation**, **real-time discovery**, and a 
 
 ## 🖼️ Preview
 
-![FindFindr Preview](preview.png)
-
-> *(You can replace `preview.png` with a screenshot exported from your Figma prototype.)*
+![FindFindr Preview](video-preview.mp4)
 
 ---
 
