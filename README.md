@@ -33,12 +33,13 @@ The interface emphasizes easy navigation, live fare updates, and a **clean**, **
 [🔗 Open FindFindr in Figma](https://www.figma.com/proto/OZGESY1sCgFiAq6msraJ4b/FindFindr?node-id=1-2&starting-point-node-id=1%3A2&t=BwBTc0LCROY7R6YJ-1)
 
 👉 **View the figma file here:** 
+[🔗 Download the figma file](https://github.com/edricemerson/findfindr-ui-prototype/blob/main/FindFindr.fig)
 
 ---
 
 ## 🖼️ Preview
 
-![FindFindr Preview](video-preview.mp4)
+[FindFindr Preview](video-preview.mp4)
 
 ---
 
