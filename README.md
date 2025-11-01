@@ -39,6 +39,8 @@ The interface emphasizes easy navigation, live fare updates, and a **clean**, **
 
 ## 🖼️ Preview
 
+Download the video preview of the figma here
+
 [FindFindr Preview](video-preview.mp4)
 
 ---
